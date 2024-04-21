@@ -1,2 +1,6 @@
-# Solitare-Game
-Jogo de Paciência ultilizando pilhas em C.
+# ♣️ Solitare-Game (Paciência)
+
+- 🏛️ Elaborado para a diciplina de Estruturas de Dados I [3°Termo]
+- 📕 Intuito: Praticar estruturas de dados do tipo "Pilha" e manipulação de interface 
+- 💻Linguagem: C/C++
+##
